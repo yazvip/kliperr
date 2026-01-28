@@ -1,0 +1,11 @@
+groq
+openai-whisper
+yt-dlp
+moviepy==1.0.3
+mediapipe
+opencv-python
+numpy
+torch
+tqdm
+colorama
+python-dotenv
